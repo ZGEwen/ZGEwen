@@ -9,12 +9,9 @@ I'm Ewen Zang
 [![CSDN](https://img.shields.io/badge/CSDN-%E5%8B%BF%E8%AA%9E%E5%BF%B5%E5%8D%83-red.svg?style=for-the-badge)](https://blog.csdn.net/ZGEwen)
 ## Ewen Zang's github stats
 ![Ewen Zang's github stats](https://github-readme-stats.vercel.app/api?username=ZGEwen&show_icons=true&hide=issues)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZGEwen&show_icons=true&hide=issues" alt="Ewen Zang's github stats"/>
 ## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGEwen&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGEwen&layout=compact" alt="Most Used Languages"/> 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGEwen&layout=compact)
 
 
 <!--
