@@ -2,7 +2,7 @@
 I'm Ewen Zang
 
 
-[![Mail](https://img.shields.io/badge/-QQmai-c14438?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:2545717263@qq.com)
+[![Mail](https://img.shields.io/badge/-QQmail-c14438?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:2545717263@qq.com)
 [![Github.io博客](https://img.shields.io/badge/Blog-Github.io博客-blue.svg?style=for-the-badge)](http://zgewen.github.io)
 [![Halo个人博客](https://img.shields.io/badge/Blog-Halo个人博客-orange.svg?style=for-the-badge)](http://101.200.238.250:19935)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ZGEwen/)
