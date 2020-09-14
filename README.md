@@ -3,8 +3,8 @@ I'm Ewen Zang
 
 
 [![Mail](https://img.shields.io/badge/-QQmail-c14438?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:ewenzang@qq.com)
-[![Github.io博客](https://img.shields.io/badge/Blog-Github.io博客-blue.svg?style=for-the-badge)](http://zgewen.github.io)
-[![Halo个人博客](https://img.shields.io/badge/Blog-Halo个人博客-orange.svg?style=for-the-badge)](http://101.200.238.250:19935)
+[![Github.io博客](https://img.shields.io/badge/Blog-Github.io博客-blue.svg?style=for-the-badge)](http://doc.ewenzang.xyz)
+[![Halo个人博客](https://img.shields.io/badge/Blog-Halo个人博客-orange.svg?style=for-the-badge)](http://my.ewenzang.xyz:19935)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ZGEwen/)
 [![CSDN](https://img.shields.io/badge/CSDN-%E5%8B%BF%E8%AA%9E%E5%BF%B5%E5%8D%83-red.svg?style=for-the-badge)](https://blog.csdn.net/ZGEwen)
 ## Ewen Zang's github stats
